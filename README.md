@@ -4,7 +4,7 @@
   <img src="./giphy.webp" alt="Hi, I'm Thang 👋 I'm a 🚀 Frontend developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
-<p>Welcome to my page! </br> I'm Thang, Frontend developer.
+<p align="center">Welcome to my page! </br> I'm Thang, Frontend developer.
 <h3>Things I code with</h3>
 <p>
   <img alt="Reactjs" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -72,5 +72,6 @@
   <li><a href="https://apps.apple.com/lb/app/s%C4%83n-r%C3%A1c/id1573373909"><b> App moblie trash hunting</b></a><br/><i>“Trash Hunt” is an app to report and monitor all indiscriminate dumping sites</i></li>
 </ul>
 <h3>Where to find me</h3>
-<p><a href="https://github.com/thang21197" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<p><a href="https://github.com/thang21197" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/vi%E1%BB%87t-th%E1%BA%AFng-nguy%E1%BB%85n-b3a7891a4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
