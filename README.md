@@ -5,6 +5,7 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="Reactjs" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="ReactQuery" src="https://img.shields.io/badge/-ReactQuery-FF4154?logo=react-query&logoColor=white&logoWidth=30" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
