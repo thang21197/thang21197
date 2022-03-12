@@ -1,5 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+<p align="center">
+  <img src="./giphy.webp" alt="Hi, I'm Thang 👋 I'm a 🚀 Frontend developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
 
 <p>Welcome to my page! </br> I'm Thang, Frontend developer.
 <h3>Things I code with</h3>
