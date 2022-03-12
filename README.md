@@ -65,8 +65,4 @@
 <ul>
   <li><a href="https://vspace.global/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" /> Vspace global</b></a><br/><i>One Global Innovation Network.</i></li>
   <li><a href="https://marketplace.aspo.world/marketplace"><b><img src="https://img.shields.io/badge/-Web3js-F16822?logo=web3.js&logoColor=white&logoWidth=30" width="20" alt="new" /> Aspo world marketplace</b></a><br/><i>The website has builed by web3-react</i></li>
-  <li><a href="https://medium.com/better-programming/pro-tips-to-help-you-get-started-with-your-side-project-15d01b76e0d8"><b>Pro Tips to Help You Get Started With Your Side Project</b></a><br/><i>Begin with solid foundations to keep the excitement kicking in...</i></li>
-  <li><a href="https://medium.com/dev-genius/hi-interested-by-a-once-in-a-lifetime-opportunity-1777c889127c"><b>Hi, Interested by a Once-in-a-Lifetime Opportunity?</b></a><br/><i>A perfectly suited job position for those aiming for the sky.</i></li>
-  <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
-  <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
 </ul>
