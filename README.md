@@ -64,5 +64,9 @@
 <h3>My projects</h3>
 <ul>
   <li><a href="https://vspace.global/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" /> Vspace global</b></a><br/><i>One Global Innovation Network.</i></li>
-  <li><a href="https://marketplace.aspo.world/marketplace"><b><img src="https://img.shields.io/badge/-Web3js-F16822?logo=web3.js&logoColor=white&logoWidth=30" width="20" alt="new" /> Aspo world marketplace</b></a><br/><i>The website has builed by web3-react</i></li>
+  <li><a href="https://marketplace.aspo.world/marketplace"><b><img src="https://aspo.world/wp-content/themes/extra/assets/images/aspo/icon-aspo.png" width="20" alt="new" /> Aspo world marketplace</b></a><br/><i>The website has builed by web3-react</i></li>
+  <li><a href="https://apps.apple.com/lb/app/s%C4%83n-r%C3%A1c/id1573373909"><b> App moblie trash hunting</b></a><br/><i>“Trash Hunt” is an app to report and monitor all indiscriminate dumping sites</i></li>
 </ul>
+<h3>Where to find me</h3>
+<p><a href="https://github.com/thang21197" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+</p>
