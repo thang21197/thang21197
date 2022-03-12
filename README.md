@@ -27,7 +27,7 @@
     
 </p>
 <h3>Open source projects</h3>
-<table>
+<!-- <table>
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
@@ -36,7 +36,7 @@
       <td><b>🛎 Issues</b></td>
       <td><b>📬 Pull requests</b></td>
     </tr>
-  </thead>
+  </thead> -->
   <!-- <tbody>
     <tr>
       <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
