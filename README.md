@@ -20,11 +20,11 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Web3js" src="  https://img.shields.io/badge/-Web3js-F16822?logo=web3.js&logoColor=white&logoWidth=30" /> 
+  <img alt="Web3js" src="https://img.shields.io/badge/-Web3js-F16822?logo=web3.js&logoColor=white&logoWidth=30" /> 
   <!-- <img alt="Web3js" src="  https://img.shields.io/badge/-Web3js-F16822?logo=web3.js&logoColor=white&logoWidth=30" />  -->
-<img alt="Firebase" src="  https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&logoWidth=30" /> 
-<img alt="Wordpress" src="  https://img.shields.io/badge/-Wordpres-21759B?logo=wordpress&logoColor=white&logoWidth=30" /> 
-  
+    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&logoWidth=30" /> 
+    <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpres-21759B?logo=wordpress&logoColor=white&logoWidth=30" /> 
+    
 </p>
 <h3>Open source projects</h3>
 <table>
